@@ -8,6 +8,9 @@
 # testing
 /coverage
 
+#firebase
+.env.local
+
 # next.js
 /.next/
 /out/

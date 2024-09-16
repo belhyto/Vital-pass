@@ -66,7 +66,7 @@ export default function Footer() {
               </li>
             </ul>
             {/* Copyrights note */}
-            <div className="text-gray-400 text-sm mr-4">&copy; Vital-Pass By Roshni Sahoo, Isheta Bhatt, Annie Thomas, Nayana Sharma</div>
+            <div className="text-gray-400 text-sm mr-4">&copy; Vital-Pass By Roshni Sahoo, Isheta Bhatt, Annie Thomas, Nayana Sharma, Runa Kapuganti</div>
 
           </div>
 
